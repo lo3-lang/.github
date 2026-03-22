@@ -6,6 +6,12 @@ It is a lower level language. Designed for something between C and ASM.
 Read the `learn-the-syntax` for any syntax questions. Or ask directly in discussions.
 The language is designed as interpreted and is very modular. You all guys can create called plugins, which extends lo3.
 
+## Using the language
+You want to use it at your own? Here you go:
+```bash
+git clone https://github.com/lo3-lang/lo3
+```
+
 <!--
 
 **Here are some ideas to get you started:**
