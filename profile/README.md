@@ -9,7 +9,7 @@ The language is designed as interpreted and is very modular. You all guys can cr
 ## Using the language
 You want to use it at your own? Here you go:
 ```bash
-git clone https://github.com/lo3-lang/lo3
+git clone https://github.com/lo3-lang/lo3-core
 ```
 
 <!--
