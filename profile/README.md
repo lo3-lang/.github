@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 This is the programming language `lo3`.
-It is a lower level language. Designed for something between C and ASM.
+It is a lower level programming language. Designed for something between C and ASM.
 
 Read the `learn-the-syntax` for any syntax questions. Or ask directly in discussions.
 The language is designed as interpreted and is very modular. You all guys can create called plugins, which extends lo3.
