@@ -12,6 +12,17 @@ You want to use it at your own? Here you go:
 git clone https://github.com/lo3-lang/lo3-core
 ```
 
+Go into the build/
+```bash
+cd build
+```
+
+Then you can run:
+```bash
+./lo3 {FILENAME} # linux
+.\lo3 {FILENAME} # Windows
+```
+
 <!--
 
 **Here are some ideas to get you started:**
