@@ -20,7 +20,7 @@ cd build
 Then you can run:
 ```bash
 ./lo3 {FILENAME} # linux
-.\lo3 {FILENAME} # Windows
+.\lo3.exe {FILENAME} # Windows
 ```
 
 <!--
