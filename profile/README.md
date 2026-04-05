@@ -5,6 +5,7 @@ It is a lower level programming language. Designed for something between C and A
 
 Read the `learn-the-syntax` for any syntax questions. Or ask directly in discussions.
 The language is designed as interpreted and is very modular. You all guys can create called plugins, which extends lo3.
+[WEBSITE](https://lo3-lang.github.io/)
 
 ## Using the language
 You want to use it at your own? Here you go:
